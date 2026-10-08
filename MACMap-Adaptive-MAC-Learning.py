@@ -5,7 +5,6 @@ last_seen = {}
 
 TIMEOUT = 5
 
-
 def get_time():
     while True:
         time_input = input("Enter time (HH:MM): ")
